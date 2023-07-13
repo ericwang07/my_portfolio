@@ -29,7 +29,7 @@ const Home = () => {
         </div>
 
         <div className="filter invert w-5/6  overflow-hidden md:w-2/5 md:ml-16 pb-20 hidden md:flex">
-          <img src={ProfilePicture} className="w-full h-auto"/>
+          <img src={ProfilePicture} className="w-full h-auto" alt='Profile'/>
         </div>
       </div>
     </div>
