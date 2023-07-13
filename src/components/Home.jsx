@@ -1,7 +1,6 @@
 import React from 'react';
 import { BiSolidRightArrow } from 'react-icons/bi';
 import ProfilePicture from '../assets/wave.svg';
-import Portfolio from './Portfolio';
 import { Link } from 'react-scroll';
 
 const Home = () => {

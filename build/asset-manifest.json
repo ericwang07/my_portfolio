@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c0b4608.css",
+    "main.js": "/static/js/main.2dba686e.js",
+    "static/media/geographyGenius.png": "/static/media/geographyGenius.daacdac13c0dd506df77.png",
+    "static/media/santorini.png": "/static/media/santorini.25a538a05390167362a7.png",
+    "static/media/yuagSlideshow.png": "/static/media/yuagSlideshow.c7ae20b07d3519a72f25.png",
+    "static/media/wave.svg": "/static/media/wave.a613e622582f34745c33ec8adcbcf3e4.svg",
+    "static/media/yuagSearch.jpg": "/static/media/yuagSearch.063e058735635171e620.jpg",
+    "static/media/bank.jpeg": "/static/media/bank.8c202b7c6179ecca110b.jpeg",
+    "static/media/ycal.png": "/static/media/ycal.4f7169376ce638975004.png",
+    "index.html": "/index.html",
+    "main.2c0b4608.css.map": "/static/css/main.2c0b4608.css.map",
+    "main.2dba686e.js.map": "/static/js/main.2dba686e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c0b4608.css",
+    "static/js/main.2dba686e.js"
+  ]
+}
