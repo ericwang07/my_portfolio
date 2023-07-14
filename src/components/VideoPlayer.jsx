@@ -3,6 +3,7 @@ import Modal from 'react-modal';
 import './Modal.css'
 import YouTubePlayer from './YouTubePlayer';
 
+
 const VideoPlayer = (props) => {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -26,9 +27,16 @@ const VideoPlayer = (props) => {
                 overlayClassName={isModalOpen ? "modal open" : "modal"} 
                 closeTimeoutMS={300}               
             >
-                
-                <YouTubePlayer className="flex align-center mr-0" videoId={props.videoId}/>              
-                <div className='flex justify-center pb-0 p-2 text-xs'>
+  
+                <div className='flex justify-center m-15'>
+                    <YouTubePlayer className="flex align-center" videoId={props.videoId}/>                      
+                </div>
+
+                <div className='grid grid-cols-3 m-5'>
+                    <p className='col-start-2 col-span-2 text-gray-400 text-xs'>{props.description}</p>
+                </div>
+                          
+                <div className='flex justify-center text-xs'>
                     <div className='pr-4'>
                         <button className='text-white bg-none rounded-sm px-3 py-1 border text- border-gray-400' onClick={()=>window.open(props.codeLink, '_blank')}>CODE</button>
                     </div>
