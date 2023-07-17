@@ -42,9 +42,9 @@ const Portfolio = () => {
       videoId: "C0q-blGo7eE"
     },
     {
-      id: 6,
+      id: 4,
       title: "GEOGRAPHY GENIUS",
-      description: "A motion-controlled geography quiz game. Teaches basic geography knowledge and promotes movement amongst college students as a convenient pastime when walking between classes. Demonstrates the parsing of input data gathered by a Kinect sensor. Features two different game modes.",
+      description: "A motion-controlled geography quiz game with two game modes. Promotes geography knowledge and incentivizes movement amongst college students as a convenient pastime when walking between classes. Demonstrates the parsing of input data gathered by the Kinect sensor for game control.",
       src: geoImage,
       url: 'https://github.com/coderepic/HCI-Project-Group-31',
       videoId: "X9ToIbh4Czo"
@@ -59,7 +59,7 @@ const Portfolio = () => {
       videoId: "ULxMMxSt4nE"
     },
     {
-      id: 4,
+      id: 6,
       title: "YUAG SLIDESHOW",
       description: "A randomized slideshow featuring the Yale University Art Gallery's (YUAG) collection of artwork. Uses asynchronous function calls via AJAX for constantly-updating time. Play/pause and next/previous functionality are supported.",
       src: slideshowImage,
