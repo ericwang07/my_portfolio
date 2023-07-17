@@ -36,7 +36,7 @@ const Portfolio = () => {
     {
       id: 3,
       title: "YUAG SEARCH",
-      description: "An application to search the Yale University Art Gallery archive. Exercises complex SQL queries to search a large database of artwork. Uses asynchronous function calls via AJAX for dynamic searching.",
+      description: "An application to search the Yale University Art Gallery (YUAG) archive. Exercises complex SQL queries to search a large database of artwork. Uses asynchronous function calls via AJAX for dynamic searching.",
       src: searchImage,
       url: 'https://github.com/ericwang07/YUAG-Search',
       videoId: "C0q-blGo7eE"
@@ -61,7 +61,7 @@ const Portfolio = () => {
     {
       id: 4,
       title: "YUAG SLIDESHOW",
-      description: "A randomized slideshow featuring the Yale University Art Gallery's collection of artwork. Uses asynchronous function calls via AJAX for constantly-updating time. Play/pause and next/previous functionality are supported.",
+      description: "A randomized slideshow featuring the Yale University Art Gallery's (YUAG) collection of artwork. Uses asynchronous function calls via AJAX for constantly-updating time. Play/pause and next/previous functionality are supported.",
       src: slideshowImage,
       url: 'https://github.com/ericwang07/YUAG-Slideshow',
       videoId: "9WuUgT1glmI"
