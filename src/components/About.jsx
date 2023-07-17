@@ -24,14 +24,11 @@ const About = () => {
               Pushing the netbook beyond its hardware limitations excited me, as I eventually shaped it from an virtually-unusable toy to a seriously capable device.
             </div>
             <div className='font-2xl text-sm pb-4 w-1/3 ml-auto mr-0 text-gray-400 flex'>  
-              For my family flea market business, it opened up the gates to the world of online wholesale. Our profits tripled that year.
+              For my family flea market business, it opened up our gates to the world of online wholesale. Our profits tripled that year.
             </div>
             <div className='font-2xl text-sm pb-4 w-1/3 ml-auto mr-0 text-gray-400 flex'>  
-              Believing in my ability to harness technology to help those around me, I forge ahead.
-            </div>
-            <div className='font-2xl text-sm pb-4 w-1/3 ml-auto mr-0 text-gray-400 flex'>  
-              I am on a path to innovate accessible machine-learning tools, blending technology and empathy to shape a future where seamless human-machine harmony prevails.
-            </div>            
+              Believing in my ability to harness technology to help those around me, I forge ahead on a path to innovate accessible machine-learning tools, blending technology and empathy to shape a future where seamless human-machine harmony prevails.
+            </div>   
             <div className='font-2xl text-sm pb-4 w-1/3 ml-auto mr-0 text-gray-400 flex'>
               Flea market vendor, lefty violinist, stoic philosophy reader, and tennis lover.
             </div>              
