@@ -24,7 +24,7 @@ const About = () => {
               Pushing the netbook beyond its hardware limitations excited me, as I eventually shaped it from a cheap toy to a seriously capable device.
             </div>
             <div className='font-2xl text-sm pb-4 w-1/3 ml-auto mr-0 text-gray-400 flex'>  
-              For my family flea market business, it opened up our gates to the world of online wholesale. Our profits tripled that year.
+              For my family flea market business, the new personal computer opened up the possibility of buying merchandise from online wholesale websites. Our profits tripled that year.
             </div>
             <div className='font-2xl text-sm pb-4 w-1/3 ml-auto mr-0 text-gray-400 flex'>  
               Believing in my ability to harness technology to help those around me, I forge ahead on a path to innovate accessible machine-learning tools, blending technology and empathy to shape a future where seamless human-machine harmony prevails.
