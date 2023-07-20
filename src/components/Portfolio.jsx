@@ -71,7 +71,7 @@ const Portfolio = () => {
   return (
     <div name='PORTFOLIO' className='w-screen h-screen bg-black text-white lg:px-0 px-20'>
         <div className='max-w-screen-lg mx-auto flex flex-col justify-center w-full h-full'>                          
-            <div className='w-30 flex flex-col items-end lg:text-7xl md:text-6xl text-3xl'>          
+            <div className='w-30 flex flex-col items-end lg:text-7xl md:text-6xl text-2xl'>          
               {projects.map(({id, title, url, description, videoId}) => (
                 <VideoPlayer key={id} title={title} description={description} codeLink={url} videoId={videoId}></VideoPlayer>
               ))}
