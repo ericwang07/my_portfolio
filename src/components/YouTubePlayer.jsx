@@ -3,8 +3,8 @@ import YouTube from 'react-youtube';
 
 const YouTubePlayer = ({ videoId }) => {
   const [opts, setOpts] = useState({    
-    height: 9/16 * (Math.min(774, window.innerWidth)),
-    width: (Math.min(774, window.innerWidth)),
+    height: 9/16 * (Math.min(774, window.innerWidth * 0.9)),
+    width: (Math.min(774, window.innerWidth * 0.9)),
     playerVars: {
       autoplay: 0,
     },
@@ -28,7 +28,7 @@ const YouTubePlayer = ({ videoId }) => {
   useEffect(() => {    
     const updatePlayerSize = () => {
       const { width: videoWidth, height: videoHeight } = getVideoDimensions();
-      const containerWidth = Math.min(774, window.innerWidth);
+      const containerWidth = Math.min(774, window.innerWidth * 0.9);
   
       // Calculate the aspect ratio
       const aspectRatio = videoHeight / videoWidth;
