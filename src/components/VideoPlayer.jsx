@@ -17,7 +17,7 @@ const VideoPlayer = (props) => {
     };
 
     return (
-        <div className='flex justify-center py-3 text-6xl font-thin'>
+        <div className='flex py-3 font-thin'>
             <button onClick={openModal}>{props.title}</button>            
             <Modal
                 isOpen={isModalOpen}
