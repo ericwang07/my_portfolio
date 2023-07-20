@@ -6,7 +6,8 @@ const About = () => {
         name='ABOUT'
     >
         <div className='max-w-screen-lg mx-auto flex flex-col justify-end md:justify-center w-full h-full items-center md:items-start px-10 md:px-0 pt-12'>
-            <div className='pb-10'>         
+            <div className='text-sm pb-8 md:w-1/3 w-2/3 ml-auto mr-0 flex'>   
+            ABOUT ME      
             </div>  
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
               Born in 2003 in Chicago, Illinois. Studying in New Haven, Connecticut. Based in Saint Paul, Minnesota.
