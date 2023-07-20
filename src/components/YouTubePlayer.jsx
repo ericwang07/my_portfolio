@@ -49,7 +49,7 @@ const YouTubePlayer = ({ videoId }) => {
     return () => {
       window.removeEventListener('resize', updatePlayerSize);
     };
-  }, []);
+  }, [opts]);
 
   
   return <YouTube videoId={videoId} opts={opts} onReady={onReady} />;

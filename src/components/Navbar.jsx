@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { FaBars, FaTimes } from "react-icons/fa"
 import { CiMenuBurger } from "react-icons/ci"
 import { Link } from 'react-scroll'
 
