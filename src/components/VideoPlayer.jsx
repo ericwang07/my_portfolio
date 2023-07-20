@@ -28,7 +28,7 @@ const VideoPlayer = (props) => {
                 closeTimeoutMS={300}               
             >
   
-                <div className='flex justify-center m-15'>
+                <div className='flex justify-center m-15 sm:w-full md:w-3/4 lg:w-1/2 mx-auto'>
                     <YouTubePlayer className="flex align-center" videoId={props.videoId}/>                      
                 </div>
 
