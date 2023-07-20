@@ -41,7 +41,7 @@ const Navbar = () => {
 
         <div 
             onClick={() => setNav(!nav)}
-            className='cursor-pointer pr-4 z-10 text-white sm:hidden font-thin'
+            className='cursor-pointer mr-2 z-10 text-white sm:hidden font-thin'
         >
             {nav ? <div className='text-xs'>CLOSE</div> : <CiMenuBurger size={25} />}
         </div>                
