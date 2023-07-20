@@ -5,7 +5,7 @@ const About = () => {
         className='w-screen min-h-screen bg-black text-white'
         name='ABOUT'
     >
-        <div className='max-w-screen-lg mx-auto flex flex-col justify-end md:justify-center w-full h-full items-center md:items-start px-10 md:px-0'>
+        <div className='max-w-screen-lg mx-auto flex flex-col justify-end md:justify-center w-full h-full items-center md:items-start px-10 md:px-0 pt-12'>
             <div className='pb-10'>         
             </div>  
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
