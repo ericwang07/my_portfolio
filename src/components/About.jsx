@@ -30,7 +30,7 @@ const About = () => {
               Believing in my ability to harness technology to help those around me, I forge ahead on a path to innovate accessible AI tools, blending technology and empathy to shape a future where seamless human-machine harmony prevails.
             </div>   
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
-              Flea market vendor, lefty violinist, avid stoic philosophy reader, and lover of the game of tennis.
+              Flea market vendor, lefty violinist, and student of stoic philosophy.
             </div>              
             
         </div>
