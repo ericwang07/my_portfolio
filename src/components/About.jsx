@@ -15,7 +15,7 @@ const About = () => {
               I believe that intuitive interfaces are the key to maximize the positive potential of cutting-edge technologies.
             </div>
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
-              I began my journey at the age of twelve, when I received a free netbook in exchange for the completion of an online aimed at increasing education access in low-income areas.
+              I began my journey at the age of twelve, when I received a free netbook upon completion of an online course aimed at increasing education access in low-income areas.
             </div>
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
               I cherished the netbook, as it allowed me to indulge in computer-tinkering, a luxury that my parents couldn't afford to provide me.
