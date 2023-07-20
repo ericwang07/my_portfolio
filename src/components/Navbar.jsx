@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from "react-icons/fa"
+import { CiMenuBurger } from "react-icons/ci"
 import { Link } from 'react-scroll'
 
 const Navbar = () => {
@@ -41,9 +42,9 @@ const Navbar = () => {
 
         <div 
             onClick={() => setNav(!nav)}
-            className='cursor-pointer pr-4 z-10 text-white sm:hidden'
+            className='cursor-pointer pr-4 z-10 text-white sm:hidden font-thin'
         >
-            {nav ? <FaTimes size={30}/> : <FaBars size={30} />}
+            {nav ? <div className='text-xs'>CLOSE</div> : <CiMenuBurger size={25} />}
         </div>                
         
 
