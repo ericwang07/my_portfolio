@@ -13,27 +13,11 @@ const About = () => {
               Born in 2003 in Chicago, Illinois. Studying in New Haven, Connecticut. Based in Saint Paul, Minnesota.
             </div>
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
-              I believe that intuitive interfaces are the key to maximize the positive potential of cutting-edge technologies.
-            </div>
-            <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
-              I began my journey at the age of twelve, when I received a free netbook upon completion of an online course aimed at increasing education access in low-income areas.
-            </div>
-            <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
-              I cherished the netbook, as it allowed me to indulge in computer-tinkering, a luxury that my parents couldn't afford to provide me.
-            </div>
-            <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
-              I quickly fell in love with the thrill of maximizing the computational power of the limited hardware. By the end of that summer, I had transformed the netbook from a cheap toy to a seriously capable personal device. 
-            </div>
-            <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
-              For my family business, personal computing unlocked access to an abundance of online wholesale websites. Our profits tripled that year.
-            </div>
-            <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>  
-              Believing in my ability to harness technology to help those around me, I forge ahead on a path to innovate accessible AI tools, blending technology and empathy to shape a future where seamless human-machine harmony prevails.
-            </div>   
+              I am an undergraduate student at Yale University studying Computer Science. I am interested in developing social software, tools that combat the all-pervasive loneliness that is a consequence of the digital age.
+            </div>  
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
-              Flea market vendor, lefty violinist, and student of stoic philosophy.
-            </div>              
-            
+              To aid in this mission, I am devoted to leveraging the power of artificial intelligence and intuitive interfaces to create a more connected world.
+            </div>
         </div>
     </div>
   )
