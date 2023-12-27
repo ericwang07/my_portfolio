@@ -1,11 +1,5 @@
 import React from 'react'
 import VideoPlayer from './VideoPlayer'
-import bankImage from '../assets/images/bank.jpeg'
-import santoriniImage from '../assets/images/santorini.png'
-import ycalImage from '../assets/images/ycal.png'
-import searchImage from '../assets/images/yuagSearch.jpg'
-import slideshowImage from '../assets/images/yuagSlideshow.png'
-import geoImage from '../assets/images/geographyGenius.png'
 
 
 // import ycalImage from '../assets/images/'
