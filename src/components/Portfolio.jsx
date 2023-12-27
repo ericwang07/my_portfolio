@@ -18,7 +18,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "YCAL",
+      title: "YCal",
       description: "A social calendar app built for Yale students that allows you to seamlessly coordinate your rigorous academic plans with your vibrant social life. Yale course integration makes the course-shopping process easier, allowing you to instantly view how a course would conflict with your other commitments. You can add friends and view their calendars, create group events, and ask the AI scheduler to peek at every group member's calendars to find the best time for a boba study break.",
       languages: "Javascript, HTML, CSS",
       technologies: "MongoDB, ExpressJS, React, NodeJS",
@@ -27,7 +27,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: "SANTORINI",
+      title: "Santorini",
       description: "A command-line representation of the Santorini board game. Human, random, or heuristic player modes. Undo/redo and score displaying functionality are supported. The heuristic player mode exercises a primitive form of AI that chooses the best move. Utilizes design patterns (i.e. Memento, Strategy, etc.) to provide modularity and abstraction to the code design.",
       languages: "Javascript, HTML, CSS",
       technologies: "MongoDB, ExpressJS, React, NodeJS",
@@ -36,14 +36,14 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "YUAG SEARCH",
+      title: "YUAG Search",
       description: "An application to search the Yale University Art Gallery (YUAG) archive. Exercises complex SQL queries to search a large database of artwork. Uses asynchronous function calls via AJAX for dynamic searching.",
       url: 'https://github.com/ericwang07/YUAG-Search',
       videoId: "C0q-blGo7eE"
     },
     {
       id: 5,
-      title: "GEOGRAPHY GENIUS",
+      title: "Geography Genius",
       description: "A motion-controlled geography quiz game with two game modes. Promotes geography knowledge and incentivizes movement amongst college students as a convenient pastime when walking between classes. Demonstrates the parsing of input data gathered by the Kinect sensor for game control.",      
       url: 'https://github.com/coderepic/HCI-Project-Group-31',
       videoId: "X9ToIbh4Czo"
