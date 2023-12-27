@@ -11,16 +11,13 @@ const YouTubePlayer = ({ videoId }) => {
   });
 
 
-  const getVideoDimensions = () => {
-    // Replace this with the actual dimensions of your video
-    // For example, if your video has a resolution of 16:9, you can use width: 16 and height: 9
+  const getVideoDimensions = () => {    
     const videoWidth = 16;
     const videoHeight = 9;
     return { width: videoWidth, height: videoHeight };
   };
 
-  const onReady = (event) => {
-    // Access the player in event.target
+  const onReady = (event) => {    
     event.target.pauseVideo();    
   };
 

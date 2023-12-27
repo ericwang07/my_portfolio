@@ -10,13 +10,13 @@ const About = () => {
             ABOUT ME      
             </div>  
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
-              Born in 2003 in Chicago, Illinois. Studying in New Haven, Connecticut. Based in Saint Paul, Minnesota.
+              Born in 2003 in Chicago, Illinois. Based in Saint Paul, Minnesota.
             </div>
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
               I am an undergraduate student at Yale University studying Computer Science. I am interested in developing social software, tools that combat the all-pervasive loneliness that is a consequence of the digital age.
             </div>  
             <div className='font-2xl text-sm pb-4 md:w-1/3 w-2/3 ml-auto mr-0 text-gray-400 flex'>
-              To aid in this mission, I am devoted to leveraging the power of artificial intelligence and intuitive interfaces to create a more connected world.
+              To aid in this mission, I am devoted to leveraging the power of artificial intelligence and intuitive interfaces to build a more connected world.
             </div>
         </div>
     </div>
