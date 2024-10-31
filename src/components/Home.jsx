@@ -8,7 +8,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full md:flex-row">
         <div className="text-center">
           <h1 className="text-white text-6xl pb-2 m-0">ERIC WANG</h1>
-          <h1 className="text-gray-400 text-sm pb-6 m-0">
+          <h1 className="text-gray-300 text-m pt-6 pb-10 m-0">
             Software developer & <br />
             Student at <span className="text-white font-semibold">Yale University.</span>
           </h1>
